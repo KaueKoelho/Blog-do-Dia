@@ -1,0 +1,76 @@
+.BarraDeNavegacao{
+    display: flex;
+    align-items: center;
+    height: 150px;
+    background-color: springgreen;
+    margin-bottom: 30px;
+}
+.logo{
+    margin-left: 20px;
+    border: none;
+    height: 100px;
+    width: 100px;
+}
+.OutrasPaginas{
+    font-size: larger;
+    margin-left: 65%;
+}
+.blogDoDiaNoticias{
+    text-align: center;
+    border: solid seagreen;
+    border-radius: 20px;
+        margin: 0 auto;
+    background-color: white;
+    width: 80%;
+    padding-bottom: 20px;
+}
+.NoticiaUrgente{
+    margin: 30px 0 0 0;
+    color: red;
+}
+body{
+    text-align: center;
+    margin: 0 auto;
+    background-color: lightgreen;
+}
+h1{
+    margin: 20px 180px 0 180px;
+    color: white;
+    width: 700px;
+    font-family: Snell Roundhand, cursive;
+    font-weight: bold;
+    font-size: 90px;
+    background-color: palegreen;
+    border-radius: 50px;
+    border: solid black;
+}
+h3{
+    text-align: center;
+    font-family: OCR A Std, monospace;
+    font-weight: bold;
+    font-size: 20px;
+    font-style: italic;
+}
+h4{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 40px;
+}
+p{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0 30px 0 30px;
+}
+img{
+    height: 300px;
+    width: 400px;
+    border: solid 1px black;
+}
+button{
+    color: white;
+    background-color: seagreen;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: OCR A Std, monospace;
+}
